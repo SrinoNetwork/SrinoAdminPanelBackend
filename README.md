@@ -1,6 +1,6 @@
-# SrinoAdminPanelBackend
+# ktor-discord-auth
 
-This project was created using the [Ktor Project Generator](https://start.ktor.io).
+This repo is a simple ktor backend with secure (i think) discord oauth authentication
 
 Here are some useful links to get you started:
 
